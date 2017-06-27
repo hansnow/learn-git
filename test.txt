@@ -1,5 +1,0 @@
-this is only a test
-I'm using git
-it's very cool
-I have made some changes
-GPL
